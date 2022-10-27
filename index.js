@@ -42,7 +42,7 @@ say(`SAD-BOT`, {
 	transitionGradient: true,
 	letterSpacing: 3,
 });
-say(`'SAD-BOT' Recoded By Papah-Chan`, {
+say(`'FIN-BOT' By FIN`, {
 	font: 'console',
 	align: 'center',
 	gradient: ['#DCE35B', '#45B649'],
