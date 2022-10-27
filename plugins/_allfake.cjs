@@ -48,15 +48,15 @@ handler.all = async function (m) {
 					description: 'simple bot esm',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/FahriAdison",					
+					sourceUrl: "https://github.com/Raya2399",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/bot_whangsaf",
+            mediaUrl: "https://Instagram.com/al_vin.233",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/bot_whangsaf", 
+            description: "https://Instagram.com/al_vin.233", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
@@ -65,9 +65,9 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/adison_fahri",
+            mediaUrl: "https://Facebook.com/alvin",
             mediaType: "VIDEO",
-            description: "https://Facebook.com/adison_fahri", 
+            description: "https://Facebook.com/alvin", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
@@ -112,7 +112,7 @@ global.fakefb = {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat  ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "caption":"by : Papah-Chan","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "caption":"by : Fin","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                   global.fliveLoc2 = {
@@ -120,7 +120,7 @@ global.fakefb = {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "title": "Papah-Chan","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "title": "Fin","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                    global.ftoko = {
@@ -169,7 +169,7 @@ global.fakefb = {
                "groupInviteMessage": {
                    "groupJid": "17608914335-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan Papah-Chan", 
+                   "groupName": "Fin-Md", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
