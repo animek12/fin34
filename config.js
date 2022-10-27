@@ -139,8 +139,8 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'Fin bot By'
+global.author = 'Fin'
 
 global.sgc = 'https://chat.whatsapp.com/KwmT6WBRghjBTHrxpxWNre'
 global.sig = 'https://instagram.com/al_vin.233'
